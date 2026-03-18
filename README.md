@@ -37,3 +37,7 @@ Além do código, sou amante de <strong>música</strong>! 🎵🎶🎧
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40"/>
 </div>
+
+<div align="center">
+  <img src=".github\img\frieren.jpeg"/>
+</div>
