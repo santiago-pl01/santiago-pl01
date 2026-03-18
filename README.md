@@ -1,16 +1,39 @@
-## Hi there 👋
+<h2 >👋 Olá, me chamo Paloma</h2>
 
-<!--
-**santiago-pl01/santiago-pl01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>
+Sou apaixonada por tecnologia, estudante de <strong>Desenvolvimento Backend</strong> e <strong>Cyber Security</strong>. 👾🎲 <br>
+Sempre buscando evoluir, aprender coisas novas e criar soluções eficientes! 💽🖥️ <br>
+Além do código, sou amante de <strong>música</strong>! 🎵🎶🎧
+</p>
 
-Here are some ideas to get you started:
+<h3 align="center">📬 Entre em contato comigo</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center"> 
+  <a href="mailto:devsantiago123@gmail.com" title="Enviar email">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/paloma-santiag0" target="_blank" title="LinkedIn">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a> 
+</div>
+
+---
+
+<div align="center">
+  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=santiago-pl01&show_icons=true&bg_color=000000&title_color=bb86fc&text_color=ffffff&icon_color=bb86fc"/>
+  
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santiago-pl01&layout=compact&bg_color=000000&title_color=bb86fc&text_color=ffffff"/>
+</div>
+
+---
+
+<h3 align="center">🛠️ Minha Stack</h3>
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40"/>
+</div>
