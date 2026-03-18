@@ -39,5 +39,6 @@ Além do código, sou amante de <strong>música</strong>! 🎵🎶🎧
 </div>
 
 <div align="center">
-  <img src=".github\img\frieren.jpeg"/>
+  <img src=".github\img\frieren.jpeg"
+   width="150px"   />
 </div>
