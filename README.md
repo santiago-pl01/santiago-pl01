@@ -1,10 +1,8 @@
 <h2 >👋 Olá, me chamo Paloma</h2>
 
 <p>
-Sou apaixonada por tecnologia, estudante de <strong>Desenvolvimento Backend</strong> e <strong>Cyber Security</strong>. 👾🎲 <br>
+Sou apaixonada por tecnologia, estudante de <strong>Desenvolvimento Backend</strong> <br>
 Sempre buscando evoluir, aprender coisas novas e criar soluções eficientes! 💽🖥️ <br>
-Além do código, sou amante de <strong>música</strong>! 🎵🎶🎧
-</p>
 
 <h3 align="center">📬 Entre em contato comigo</h3>
 
